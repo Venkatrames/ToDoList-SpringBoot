@@ -1,7 +1,7 @@
 # 📝 To-Do List Application (Spring Boot)
 
 ## 📌 Overview  
-This is a **Spring Boot-based To-Do List application** that allows users to **Create, Read, Update, and Delete (CRUD) tasks**. It is built using **JSP, Servlets, JDBC, and MySQL** for backend operations and follows the **MVC architecture**.
+This is a **Spring Boot-based To-Do List application** that allows users to **Create, Read, Update, and Delete (CRUD) tasks**. It is built using **Spring-Boot, JSP, Servlets, JDBC, and MySQL** for backend operations and follows the **MVC architecture**.
 
 ## 🚀 Features  
 - ✅ Add new tasks  
